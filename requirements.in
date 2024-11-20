@@ -1,0 +1,7 @@
+transformers==4.46.2
+jupyter==1.1.1
+torch==2.5.1
+pillow==11.0.0
+opencv-python
+opencv-contrib-python
+matplotlib
